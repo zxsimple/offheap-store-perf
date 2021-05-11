@@ -1,4 +1,4 @@
-# offheap-store-perf
+# Offheap Store Performance Benchmark
 Peformance benchmark for Java off-heap storage
 
 ### Build the project
